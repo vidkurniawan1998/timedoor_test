@@ -20,11 +20,11 @@ Make Sure Have PHP Binary File From Your PHP Server with minimum version 8.1.0
 
 ## How To Install And Run This Timedoor Test Laravel Project
 
-1.Pull This Project
-2.Before Open This Project, Make Sure Install This Project With This Command With CLI "composer install"
-3.After That Migrate The Migration Database That Already Made And Run The Command With CLI "php artisan migrate"
-4.After That,Run The Seeder With Command CLI Base On The Name Of File Seeder "php artisan db::seed --class=nameseeder"
-5.After That, Run This Project With This Command From CLI "php artisan serve"
+1.Pull This Project <br>
+2.Before Open This Project, Make Sure Install This Project With This Command With CLI "composer install" <br>
+3.After That Migrate The Migration Database That Already Made And Run The Command With CLI "php artisan migrate" <br>
+4.After That,Run The Seeder With Command CLI Base On The Name Of File Seeder "php artisan db::seed --class=nameseeder" <br>
+5.After That, Run This Project With This Command From CLI "php artisan serve" <br>
 
 ## About Laravel
 
